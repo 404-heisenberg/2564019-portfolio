@@ -1,0 +1,1 @@
+I learnt how to publish my repository using git pages. I learnt how use git in my normal workflow using commands like commit, push, checkout and merge. I learnt how to clone my repository onto my local computer.
